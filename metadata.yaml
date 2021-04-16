@@ -1,0 +1,24 @@
+_repo: Wind-in-Her-Hair_65032
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neville, Kris
+    alias: Neville, Kris Ottman
+    birthdate: 1925
+    deathdate: 1980
+    gutenberg_agent_id: '25913'
+    url: http://www.gutenberg.org/2009/agents/25913
+    wikipedia: https://en.wikipedia.org/wiki/Kris_Ottman_Neville
+description: ''
+gutenberg_issued: '2021-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wind in Her Hair
+url: http://www.gutenberg.org/ebooks/65032
